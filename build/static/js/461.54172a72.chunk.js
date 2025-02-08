@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktodo_fronted=self.webpackChunktodo_fronted||[]).push([[461],{8461:(e,s,t)=>{t.r(s),t.d(s,{default:()=>f});t(5043);var d=t(579);const f=e=>(0,d.jsx)("div",{className:"w-full flex justify-center",children:(0,d.jsx)(e.page,{})})}}]);
+//# sourceMappingURL=461.54172a72.chunk.js.map
